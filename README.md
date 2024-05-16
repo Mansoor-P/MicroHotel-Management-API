@@ -2,6 +2,8 @@
 
 This guide walks you through building a microservices architecture using Spring Boot, incorporating REST APIs, services, service registry, API gateway, GitHub configuration, and securing the microservices with Okta for JWT OAuth authentication.
 
+![Microservices Architechture](./microservices/mic_arch.png "Microservices Architechture")
+
 ## Step 1: Setting Up Your Environment
 
 - Install Java Development Kit (JDK): Ensure JDK 8 or later is installed.
@@ -24,6 +26,8 @@ This guide walks you through building a microservices architecture using Spring 
 - Add Eureka Server Dependency: Include `spring-cloud-starter-netflix-eureka-server` in your pom.xml.
 - Configure Eureka Server: Use `@EnableEurekaServer` annotation to enable Eureka server functionality.
 - Register Services: Services automatically register themselves with Eureka server.
+
+
 
 ## Step 5: Implementing API Gateway
 
@@ -52,3 +56,10 @@ This guide walks you through building a microservices architecture using Spring 
 ## Conclusion
 
 You've successfully built a microservices architecture using Spring Boot, incorporating REST APIs, services, service registry, API gateway, GitHub configuration, and securing with Okta for JWT OAuth authentication. Continue exploring advanced features, performance optimization, and scalability as you evolve your microservices ecosystem.
+#### NETFLIX FLOW
+<img src="./microservices/netflix_micro.png" alt="NETFLIX Microservices Architechture" width="300">
+
+#### ARCHITECHTURE 
+#### FRONTEND - BACKEND
+
+<img src="./microservices/netflix2.jpg" alt="NETFLIX Microservices Architechture" width="300">
