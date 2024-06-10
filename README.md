@@ -1,6 +1,6 @@
-# Step-by-Step Guide to Spring Boot Microservices with Okta Security
+# Spring Boot Microservices with Okta Security
 
-This guide walks you through building a microservices architecture using Spring Boot, incorporating REST APIs, services, service registry, API gateway, GitHub configuration, and securing the microservices with Okta for JWT OAuth authentication.
+Building a microservices architecture using Spring Boot, incorporating REST APIs, services, service registry, API gateway, GitHub configuration, and securing the microservices with Okta for JWT OAuth authentication.
 
 ![Microservices Architechture](./microservices/mic_arch.png "Microservices Architechture")
 
