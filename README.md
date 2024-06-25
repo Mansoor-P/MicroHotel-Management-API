@@ -57,10 +57,3 @@ Building a microservices architecture using Spring Boot, incorporating REST APIs
 ## Conclusion
 
 You've successfully built a microservices architecture using Spring Boot, incorporating REST APIs, services, service registry, API gateway, GitHub configuration, and securing with Okta for JWT OAuth authentication. Continue exploring advanced features, performance optimization, and scalability as you evolve your microservices ecosystem.
-#### NETFLIX FLOW
-<img src="./microservices/netflix_micro.png" alt="NETFLIX Microservices Architechture" width="300">
-
-#### ARCHITECHTURE 
-#### FRONTEND - BACKEND
-
-<img src="./microservices/netflix2.jpg" alt="NETFLIX Microservices Architechture" width="300">
