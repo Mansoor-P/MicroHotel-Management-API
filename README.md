@@ -1,4 +1,4 @@
-# Spring Boot Microservices with Okta Security
+# Travel Booking Platform - Microservices with Okta Security
 
 Building a microservices architecture using Spring Boot, incorporating REST APIs, services, service registry, API gateway, GitHub configuration, and securing the microservices with Okta for JWT OAuth authentication.
 
