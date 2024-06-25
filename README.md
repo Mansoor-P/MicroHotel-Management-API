@@ -3,7 +3,8 @@
 Building a microservices architecture using Spring Boot, incorporating REST APIs, services, service registry, API gateway, GitHub configuration, and securing the microservices with Okta for JWT OAuth authentication.
 
 ![Microservices Architechture](./microservices/mic_arch.png "Microservices Architechture")
-
+## Key Technologies   
+` Java 17, Spring Boot 3, Spring Cloud Netflix (Eureka, Feign), Spring Cloud Config, Spring Security, Spring Data JPA, Hibernate, MySQL, MongoDB, JUnit 5.`
 ## Step 1: Setting Up Your Environment
 
 - Install Java Development Kit (JDK): Ensure JDK 8 or later is installed.
