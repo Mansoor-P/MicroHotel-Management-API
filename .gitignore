@@ -1,0 +1,28 @@
+# Ignore target directory and its contents
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Ignore target directories under src/main and src/test
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Ignore STS (Spring Tool Suite) specific files
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# Ignore IntelliJ IDEA specific files
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Ignore VS Code specific files
+.vscode/
+
+# Ignore test folder
+test
