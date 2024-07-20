@@ -54,6 +54,3 @@ Building a microservices architecture using Spring Boot, incorporating REST APIs
 - Documentation: Document your APIs using Swagger or OpenAPI.
 - Monitoring and Scaling: Implement monitoring tools and consider scaling options based on demand.
 
-## Conclusion
-
-You've successfully built a microservices architecture using Spring Boot, incorporating REST APIs, services, service registry, API gateway, GitHub configuration, and securing with Okta for JWT OAuth authentication. Continue exploring advanced features, performance optimization, and scalability as you evolve your microservices ecosystem.
