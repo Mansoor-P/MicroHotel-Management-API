@@ -68,6 +68,3 @@ This project demonstrates the creation of a microservices architecture using Spr
     - [Prometheus Official Docs](https://prometheus.io/docs/introduction/overview/)
     - [Grafana Official Docs](https://grafana.com/docs/grafana/latest/)
 
----
-
-This setup provides a scalable foundation for building a secure travel booking platform with microservices and OAuth-based security.
